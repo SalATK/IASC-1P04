@@ -7,4 +7,4 @@ Playtest my game [here]
 
 ## Prototype
 
-Play the protoype [here](https://twitter.com/home)
+Play the protoype [here](/prototype/StartMenuGameProtoype.html)
