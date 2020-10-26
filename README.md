@@ -1,5 +1,5 @@
 # IASC-1P04 | Simon Atkinson
-Welcome to the website for my Twine Game created for the course IASC 1P04 at Brock University.
+Welcome to the website for my Twine Games and other media created for the course IASC 1P04 at Brock University.
 
 ## Playtest
 
