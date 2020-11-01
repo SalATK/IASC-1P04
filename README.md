@@ -7,4 +7,4 @@ Playtest my game [here]
 
 ## Prototype
 
-Play the protoype [here](/prototype/StartMenuGameProtoype.html)
+Play the protoype [here](/prototype/TropiclightPrototype.html)
