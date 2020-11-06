@@ -3,7 +3,7 @@ Welcome to the website for my Twine Games and other media created for the course
 
 ## Playtest
 
-Playtest my game [here](/playtest/playtest)
+Playtest my game [here](/playtest/playgame)
 
 ## Prototype
 
