@@ -9,6 +9,6 @@ Playtest my game [here](/playtest/playgame.md)
 
 Play the protoype [here](/prototype/TropiclightPrototype.html)
 
-## Final Build
+## Play Now
 
 Play the final build of my game here!
