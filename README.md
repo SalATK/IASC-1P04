@@ -11,4 +11,4 @@ Play the protoype [here](/prototype/TropiclightPrototype.html)
 
 ## Play Now
 
-Play the final build of my game here!
+Play the final build of my game [here!](/final_build/TropiclightFINAL.html)
